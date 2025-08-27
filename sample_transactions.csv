@@ -1,0 +1,346 @@
+date,description,amount,type,account
+2024-10-01,Salary Credit,254412.0,credit,Main Account
+2024-10-23,Keells,-4359.84,debit,Main Account
+2024-10-17,Keells,-5475.25,debit,Main Account
+2024-10-06,Keells,-6831.87,debit,Main Account
+2024-10-02,CEB,-4917.92,debit,Main Account
+2024-10-24,Water Board,-1570.07,debit,Main Account
+2024-10-02,Landlord Transfer,-59921.52,debit,Main Account
+2024-10-03,Landlord Transfer,-57507.07,debit,Main Account
+2024-10-12,Landlord Transfer,-63692.49,debit,Main Account
+2024-10-22,Landlord Transfer,-63975.28,debit,Main Account
+2024-10-13,Landlord Transfer,-56187.26,debit,Main Account
+2024-10-28,Osu Sala,-1467.38,debit,Main Account
+2024-10-07,Healthguard Pharmacy,-3849.32,debit,Main Account
+2024-10-18,Uber,-2332.4,debit,Main Account
+2024-10-10,Uber,-889.72,debit,Main Account
+2024-10-25,Uber,-1461.08,debit,Main Account
+2024-10-16,Uber,-1057.2,debit,Main Account
+2024-10-14,KFC,-300.0,debit,Main Account
+2024-10-11,Uber Eats,-4856.79,debit,Main Account
+2024-10-17,Arpico Home,-14053.51,debit,Main Account
+2024-10-22,AliExpress,-21543.5,debit,Main Account
+2024-10-18,Booking.com,-28890.38,debit,Main Account
+2024-10-01,Hobby Shop,-4585.31,debit,Main Account
+2024-10-14,Hobby Shop,-5219.07,debit,Main Account
+2024-10-28,Coffee Shop,-715.57,debit,Main Account
+2024-10-09,Dessert Bar,-1233.45,debit,Main Account
+2024-11-01,Salary Credit,253115.0,credit,Main Account
+2024-11-11,Keells,-8761.61,debit,Main Account
+2024-11-12,Cargills,-7388.54,debit,Main Account
+2024-11-17,Arpico,-7489.3,debit,Main Account
+2024-11-05,Arpico,-4119.94,debit,Main Account
+2024-11-27,CEB,-3914.97,debit,Main Account
+2024-11-13,Dialog,-4709.1,debit,Main Account
+2024-11-05,Water Board,-7412.56,debit,Main Account
+2024-11-15,Dialog,-6115.87,debit,Main Account
+2024-11-16,Landlord Transfer,-58375.58,debit,Main Account
+2024-11-02,Landlord Transfer,-59964.42,debit,Main Account
+2024-11-04,Landlord Transfer,-61276.92,debit,Main Account
+2024-11-28,Landlord Transfer,-60487.56,debit,Main Account
+2024-11-12,Landlord Transfer,-64127.59,debit,Main Account
+2024-11-09,Healthguard Pharmacy,-4520.66,debit,Main Account
+2024-11-29,Osu Sala,-4924.34,debit,Main Account
+2024-11-10,Osu Sala,-3174.31,debit,Main Account
+2024-11-23,Healthguard Pharmacy,-2706.78,debit,Main Account
+2024-11-24,Osu Sala,-3964.25,debit,Main Account
+2024-11-04,PickMe,-1282.11,debit,Main Account
+2024-11-17,Uber,-2246.1,debit,Main Account
+2024-11-22,Pizza Hut,-4168.37,debit,Main Account
+2024-11-14,KFC,-4184.01,debit,Main Account
+2024-11-20,Burger King,-4166.77,debit,Main Account
+2024-11-22,Arpico Home,-7336.06,debit,Main Account
+2024-11-08,AliExpress,-300.0,debit,Main Account
+2024-11-23,Arpico Home,-11681.89,debit,Main Account
+2024-11-17,Steam,-913.54,debit,Main Account
+2024-11-15,Agoda,-28184.94,debit,Main Account
+2024-11-09,Booking.com,-16168.62,debit,Main Account
+2024-11-22,Agoda,-8684.44,debit,Main Account
+2024-11-18,Agoda,-25893.65,debit,Main Account
+2024-11-22,Hobby Shop,-1049.75,debit,Main Account
+2024-11-23,Hobby Shop,-6043.56,debit,Main Account
+2024-12-01,Salary Credit,254686.0,credit,Main Account
+2024-12-11,Cargills,-7470.63,debit,Main Account
+2024-12-18,Arpico,-7253.78,debit,Main Account
+2024-12-27,Arpico,-5429.62,debit,Main Account
+2024-12-11,Arpico,-5883.13,debit,Main Account
+2024-12-04,Dialog,-4666.43,debit,Main Account
+2024-12-05,LECO,-3677.64,debit,Main Account
+2024-12-14,CEB,-4703.47,debit,Main Account
+2024-12-01,Dialog,-4219.97,debit,Main Account
+2024-12-07,Dialog,-2216.84,debit,Main Account
+2024-12-11,Landlord Transfer,-57681.63,debit,Main Account
+2024-12-20,Landlord Transfer,-62553.18,debit,Main Account
+2024-12-06,Healthguard Pharmacy,-3968.87,debit,Main Account
+2024-12-24,Osu Sala,-5390.44,debit,Main Account
+2024-12-29,PickMe,-1823.22,debit,Main Account
+2024-12-01,Uber,-1041.48,debit,Main Account
+2024-12-14,Burger King,-1915.96,debit,Main Account
+2024-12-11,Arpico Home,-16611.48,debit,Main Account
+2024-12-08,YouTube Premium,-1129.2,debit,Main Account
+2024-12-06,Apple TV+,-1164.65,debit,Main Account
+2024-12-01,Booking.com,-7130.7,debit,Main Account
+2024-12-26,Agoda,-300.0,debit,Main Account
+2024-12-16,Booking.com,-32411.66,debit,Main Account
+2024-12-28,Hobby Shop,-8012.96,debit,Main Account
+2024-12-15,Hobby Shop,-5488.83,debit,Main Account
+2024-12-12,Hobby Shop,-3957.93,debit,Main Account
+2024-12-12,Hobby Shop,-1025.62,debit,Main Account
+2024-12-02,Dessert Bar,-1581.55,debit,Main Account
+2024-12-02,Coffee Shop,-881.77,debit,Main Account
+2024-12-18,Dessert Bar,-1318.95,debit,Main Account
+2024-12-19,Coffee Shop,-300.0,debit,Main Account
+2025-01-01,Salary Credit,252288.0,credit,Main Account
+2025-01-23,Keells,-7361.98,debit,Main Account
+2025-01-08,Keells,-8331.31,debit,Main Account
+2025-01-19,Keells,-6818.49,debit,Main Account
+2025-01-11,Water Board,-4702.36,debit,Main Account
+2025-01-01,CEB,-5036.69,debit,Main Account
+2025-01-03,LECO,-4339.96,debit,Main Account
+2025-01-06,Dialog,-3772.95,debit,Main Account
+2025-01-27,Dialog,-2806.31,debit,Main Account
+2025-01-11,Landlord Transfer,-58565.72,debit,Main Account
+2025-01-07,Landlord Transfer,-58463.98,debit,Main Account
+2025-01-28,Osu Sala,-2503.85,debit,Main Account
+2025-01-01,Osu Sala,-1823.36,debit,Main Account
+2025-01-09,Healthguard Pharmacy,-4318.23,debit,Main Account
+2025-01-17,Uber,-1593.68,debit,Main Account
+2025-01-30,PickMe,-2540.06,debit,Main Account
+2025-01-01,PickMe,-1617.81,debit,Main Account
+2025-01-12,Uber,-1406.53,debit,Main Account
+2025-01-14,KFC,-6905.48,debit,Main Account
+2025-01-13,KFC,-4217.75,debit,Main Account
+2025-01-11,Uber Eats,-2651.2,debit,Main Account
+2025-01-04,Arpico Home,-4045.2,debit,Main Account
+2025-01-13,Apple TV+,-753.84,debit,Main Account
+2025-01-30,Apple TV+,-1227.71,debit,Main Account
+2025-01-26,YouTube Premium,-967.35,debit,Main Account
+2025-01-21,Booking.com,-14842.81,debit,Main Account
+2025-01-13,Booking.com,-8124.54,debit,Main Account
+2025-01-20,Agoda,-27749.2,debit,Main Account
+2025-01-18,Booking.com,-12771.13,debit,Main Account
+2025-01-17,Hobby Shop,-752.93,debit,Main Account
+2025-01-09,Hobby Shop,-4742.36,debit,Main Account
+2025-01-19,Dessert Bar,-3689.97,debit,Main Account
+2025-01-24,Coffee Shop,-3449.1,debit,Main Account
+2025-01-08,Dessert Bar,-2440.4,debit,Main Account
+2025-01-05,Dessert Bar,-2029.87,debit,Main Account
+2025-02-01,Salary Credit,250156.0,credit,Main Account
+2025-02-20,Keells,-4076.08,debit,Main Account
+2025-02-23,Cargills,-8175.88,debit,Main Account
+2025-02-11,Arpico,-5630.52,debit,Main Account
+2025-02-14,Cargills,-10440.01,debit,Main Account
+2025-02-18,Keells,-6224.26,debit,Main Account
+2025-02-15,CEB,-4283.46,debit,Main Account
+2025-02-04,SLT,-1116.04,debit,Main Account
+2025-02-01,Landlord Transfer,-54321.76,debit,Main Account
+2025-02-22,Landlord Transfer,-59577.73,debit,Main Account
+2025-02-28,Healthguard Pharmacy,-2761.51,debit,Main Account
+2025-02-27,Healthguard Pharmacy,-4578.45,debit,Main Account
+2025-02-13,Healthguard Pharmacy,-4288.24,debit,Main Account
+2025-02-01,PickMe,-779.59,debit,Main Account
+2025-02-03,PickMe,-1152.42,debit,Main Account
+2025-02-14,Uber,-3845.14,debit,Main Account
+2025-02-04,AliExpress,-8763.78,debit,Main Account
+2025-02-09,Spotify,-2100.01,debit,Main Account
+2025-02-17,Booking.com,-42774.84,debit,Main Account
+2025-02-02,Booking.com,-300.0,debit,Main Account
+2025-02-02,Agoda,-14126.3,debit,Main Account
+2025-02-10,Hobby Shop,-4205.51,debit,Main Account
+2025-02-26,Hobby Shop,-3604.02,debit,Main Account
+2025-02-07,Hobby Shop,-4148.68,debit,Main Account
+2025-02-20,Coffee Shop,-300.0,debit,Main Account
+2025-03-01,Salary Credit,245209.0,credit,Main Account
+2025-03-07,Arpico,-4940.92,debit,Main Account
+2025-03-31,Cargills,-3959.68,debit,Main Account
+2025-03-21,SLT,-2215.09,debit,Main Account
+2025-03-26,CEB,-4531.42,debit,Main Account
+2025-03-01,LECO,-6559.32,debit,Main Account
+2025-03-02,Landlord Transfer,-60203.81,debit,Main Account
+2025-03-15,Landlord Transfer,-57488.99,debit,Main Account
+2025-03-27,Healthguard Pharmacy,-2668.44,debit,Main Account
+2025-03-08,Osu Sala,-3437.11,debit,Main Account
+2025-03-08,PickMe,-1040.06,debit,Main Account
+2025-03-10,PickMe,-1350.94,debit,Main Account
+2025-03-03,PickMe,-2836.13,debit,Main Account
+2025-03-26,Burger King,-4537.1,debit,Main Account
+2025-03-10,McDonalds,-890.63,debit,Main Account
+2025-03-22,PickMe Food,-6242.72,debit,Main Account
+2025-03-28,Uber Eats,-1752.27,debit,Main Account
+2025-03-22,Uber Eats,-2351.71,debit,Main Account
+2025-03-04,AliExpress,-13515.14,debit,Main Account
+2025-03-14,Agoda,-34695.89,debit,Main Account
+2025-03-17,Booking.com,-45971.26,debit,Main Account
+2025-03-06,Agoda,-14313.22,debit,Main Account
+2025-03-21,Coffee Shop,-439.87,debit,Main Account
+2025-03-19,Dessert Bar,-1433.83,debit,Main Account
+2025-03-25,Dessert Bar,-2067.96,debit,Main Account
+2025-03-10,Coffee Shop,-646.98,debit,Main Account
+2025-04-01,Salary Credit,254648.0,credit,Main Account
+2025-04-15,Keells,-4613.28,debit,Main Account
+2025-04-24,Arpico,-7159.94,debit,Main Account
+2025-04-07,Dialog,-3096.75,debit,Main Account
+2025-04-30,LECO,-4311.89,debit,Main Account
+2025-04-08,SLT,-2992.04,debit,Main Account
+2025-04-21,Landlord Transfer,-61160.27,debit,Main Account
+2025-04-19,Landlord Transfer,-61297.06,debit,Main Account
+2025-04-15,Landlord Transfer,-60381.44,debit,Main Account
+2025-04-19,Landlord Transfer,-62431.51,debit,Main Account
+2025-04-16,Healthguard Pharmacy,-2479.72,debit,Main Account
+2025-04-16,Healthguard Pharmacy,-4236.76,debit,Main Account
+2025-04-13,Uber,-1892.01,debit,Main Account
+2025-04-20,Uber,-989.29,debit,Main Account
+2025-04-24,Uber,-679.35,debit,Main Account
+2025-04-23,PickMe,-2685.24,debit,Main Account
+2025-04-30,PickMe,-3659.81,debit,Main Account
+2025-04-04,McDonalds,-3599.11,debit,Main Account
+2025-04-12,Uber Eats,-1575.77,debit,Main Account
+2025-04-05,PickMe Food,-3097.03,debit,Main Account
+2025-04-30,Uber Eats,-4086.01,debit,Main Account
+2025-04-17,PickMe Food,-3062.97,debit,Main Account
+2025-04-13,Arpico Home,-1051.6,debit,Main Account
+2025-04-12,Steam,-2214.43,debit,Main Account
+2025-04-04,Steam,-1516.82,debit,Main Account
+2025-04-18,Booking.com,-39422.83,debit,Main Account
+2025-04-15,Booking.com,-12602.29,debit,Main Account
+2025-04-20,Agoda,-25480.74,debit,Main Account
+2025-04-05,Agoda,-300.0,debit,Main Account
+2025-04-22,Hobby Shop,-4134.05,debit,Main Account
+2025-04-22,Hobby Shop,-3619.28,debit,Main Account
+2025-04-27,Hobby Shop,-6064.28,debit,Main Account
+2025-04-14,Hobby Shop,-6327.51,debit,Main Account
+2025-05-01,Salary Credit,251569.0,credit,Main Account
+2025-05-04,Cargills,-5771.52,debit,Main Account
+2025-05-19,Keells,-4381.3,debit,Main Account
+2025-05-22,Cargills,-7192.42,debit,Main Account
+2025-05-14,Keells,-5515.32,debit,Main Account
+2025-05-28,Dialog,-5933.71,debit,Main Account
+2025-05-24,SLT,-8172.23,debit,Main Account
+2025-05-03,Landlord Transfer,-58384.99,debit,Main Account
+2025-05-25,Landlord Transfer,-63274.2,debit,Main Account
+2025-05-11,Healthguard Pharmacy,-3638.35,debit,Main Account
+2025-05-19,Healthguard Pharmacy,-4463.05,debit,Main Account
+2025-05-28,Osu Sala,-3944.41,debit,Main Account
+2025-05-23,Healthguard Pharmacy,-2716.81,debit,Main Account
+2025-05-18,PickMe,-3088.81,debit,Main Account
+2025-05-02,PickMe,-500.0,debit,Main Account
+2025-05-27,PickMe,-500.0,debit,Main Account
+2025-05-09,Uber,-1119.56,debit,Main Account
+2025-05-27,Uber,-2784.65,debit,Main Account
+2025-05-07,PickMe Food,-1083.44,debit,Main Account
+2025-05-06,Daraz,-5854.79,debit,Main Account
+2025-05-05,Daraz,-13630.37,debit,Main Account
+2025-05-19,AliExpress,-8852.45,debit,Main Account
+2025-05-19,Netflix,-1557.61,debit,Main Account
+2025-05-21,Booking.com,-14605.5,debit,Main Account
+2025-05-08,Agoda,-31415.19,debit,Main Account
+2025-05-09,Agoda,-21745.31,debit,Main Account
+2025-05-20,Hobby Shop,-3159.22,debit,Main Account
+2025-05-28,Coffee Shop,-2142.2,debit,Main Account
+2025-05-10,Dessert Bar,-1466.4,debit,Main Account
+2025-05-20,Dessert Bar,-1187.98,debit,Main Account
+2025-06-01,Salary Credit,246247.0,credit,Main Account
+2025-06-06,Arpico,-5720.04,debit,Main Account
+2025-06-19,Cargills,-4865.1,debit,Main Account
+2025-06-06,Keells,-4266.74,debit,Main Account
+2025-06-07,CEB,-5650.02,debit,Main Account
+2025-06-10,Dialog,-2936.72,debit,Main Account
+2025-06-24,Dialog,-3457.35,debit,Main Account
+2025-06-19,Water Board,-6698.55,debit,Main Account
+2025-06-17,LECO,-6351.81,debit,Main Account
+2025-06-18,Landlord Transfer,-59602.32,debit,Main Account
+2025-06-23,Landlord Transfer,-60124.41,debit,Main Account
+2025-06-24,Landlord Transfer,-61361.29,debit,Main Account
+2025-06-02,Healthguard Pharmacy,-4520.1,debit,Main Account
+2025-06-08,Osu Sala,-3396.7,debit,Main Account
+2025-06-04,PickMe,-2987.48,debit,Main Account
+2025-06-16,PickMe,-500.0,debit,Main Account
+2025-06-10,PickMe,-831.37,debit,Main Account
+2025-06-03,Uber,-1732.81,debit,Main Account
+2025-06-11,PickMe,-2070.6,debit,Main Account
+2025-06-24,McDonalds,-5570.42,debit,Main Account
+2025-06-04,Daraz,-15605.05,debit,Main Account
+2025-06-26,AliExpress,-9112.06,debit,Main Account
+2025-06-21,Spotify,-1266.05,debit,Main Account
+2025-06-26,Netflix,-1390.16,debit,Main Account
+2025-06-10,YouTube Premium,-348.9,debit,Main Account
+2025-06-05,YouTube Premium,-854.24,debit,Main Account
+2025-06-30,Agoda,-41949.04,debit,Main Account
+2025-06-09,Agoda,-20651.45,debit,Main Account
+2025-06-03,Agoda,-32124.02,debit,Main Account
+2025-07-01,Salary Credit,245918.0,credit,Main Account
+2025-07-29,Cargills,-5532.6,debit,Main Account
+2025-07-19,Keells,-5897.32,debit,Main Account
+2025-07-16,Arpico,-4989.0,debit,Main Account
+2025-07-19,Cargills,-4558.58,debit,Main Account
+2025-07-05,SLT,-3496.9,debit,Main Account
+2025-07-14,Water Board,-6886.81,debit,Main Account
+2025-07-13,CEB,-6110.57,debit,Main Account
+2025-07-07,Dialog,-8532.71,debit,Main Account
+2025-07-12,Landlord Transfer,-61298.63,debit,Main Account
+2025-07-02,Landlord Transfer,-61199.53,debit,Main Account
+2025-07-11,Landlord Transfer,-60061.44,debit,Main Account
+2025-07-04,Landlord Transfer,-58658.79,debit,Main Account
+2025-07-22,Healthguard Pharmacy,-4277.08,debit,Main Account
+2025-07-12,Osu Sala,-3048.37,debit,Main Account
+2025-07-25,PickMe,-500.0,debit,Main Account
+2025-07-11,Uber,-2253.17,debit,Main Account
+2025-07-07,Uber,-1814.79,debit,Main Account
+2025-07-17,Uber,-1974.85,debit,Main Account
+2025-07-04,Burger King,-2686.2,debit,Main Account
+2025-07-05,McDonalds,-6018.62,debit,Main Account
+2025-07-08,Burger King,-5085.08,debit,Main Account
+2025-07-20,Uber Eats,-4268.14,debit,Main Account
+2025-07-14,Uber Eats,-4025.01,debit,Main Account
+2025-07-21,PickMe Food,-4989.49,debit,Main Account
+2025-07-28,Arpico Home,-5886.76,debit,Main Account
+2025-07-24,Arpico Home,-10784.56,debit,Main Account
+2025-07-01,Arpico Home,-9227.65,debit,Main Account
+2025-07-19,Netflix,-1274.77,debit,Main Account
+2025-07-27,Netflix,-480.18,debit,Main Account
+2025-07-31,Apple TV+,-877.29,debit,Main Account
+2025-07-01,Apple TV+,-695.25,debit,Main Account
+2025-07-07,YouTube Premium,-1333.0,debit,Main Account
+2025-07-18,Booking.com,-21965.23,debit,Main Account
+2025-07-22,Booking.com,-4692.66,debit,Main Account
+2025-07-02,Booking.com,-31844.22,debit,Main Account
+2025-07-27,Hobby Shop,-6209.45,debit,Main Account
+2025-07-31,Hobby Shop,-7742.2,debit,Main Account
+2025-07-26,Hobby Shop,-6144.81,debit,Main Account
+2025-07-01,Coffee Shop,-1929.43,debit,Main Account
+2025-07-28,Coffee Shop,-300.0,debit,Main Account
+2025-07-08,Coffee Shop,-1450.08,debit,Main Account
+2025-07-23,Dessert Bar,-2292.23,debit,Main Account
+2025-08-01,Salary Credit,250909.0,credit,Main Account
+2025-08-12,Arpico,-6295.23,debit,Main Account
+2025-08-14,Cargills,-6556.42,debit,Main Account
+2025-08-09,Arpico,-4050.85,debit,Main Account
+2025-08-25,CEB,-2001.5,debit,Main Account
+2025-08-08,CEB,-5424.9,debit,Main Account
+2025-08-08,Water Board,-6511.02,debit,Main Account
+2025-08-23,CEB,-6825.67,debit,Main Account
+2025-08-05,LECO,-1168.92,debit,Main Account
+2025-08-21,Landlord Transfer,-58853.6,debit,Main Account
+2025-08-24,Landlord Transfer,-57671.85,debit,Main Account
+2025-08-18,Landlord Transfer,-61521.53,debit,Main Account
+2025-08-17,Landlord Transfer,-58362.39,debit,Main Account
+2025-08-10,Osu Sala,-3337.58,debit,Main Account
+2025-08-12,Osu Sala,-3154.29,debit,Main Account
+2025-08-13,Healthguard Pharmacy,-4597.21,debit,Main Account
+2025-08-18,Uber,-1753.27,debit,Main Account
+2025-08-09,PickMe,-927.6,debit,Main Account
+2025-08-06,Burger King,-3431.72,debit,Main Account
+2025-08-01,Burger King,-4109.36,debit,Main Account
+2025-08-10,Burger King,-6404.36,debit,Main Account
+2025-08-27,Burger King,-3406.8,debit,Main Account
+2025-08-22,PickMe Food,-4239.39,debit,Main Account
+2025-08-10,PickMe Food,-1608.58,debit,Main Account
+2025-08-30,Uber Eats,-6281.28,debit,Main Account
+2025-08-07,PickMe Food,-671.26,debit,Main Account
+2025-08-24,AliExpress,-2101.87,debit,Main Account
+2025-08-15,AliExpress,-11010.51,debit,Main Account
+2025-08-20,Booking.com,-47435.43,debit,Main Account
+2025-08-19,Hobby Shop,-5168.71,debit,Main Account
+2025-08-26,Hobby Shop,-4432.84,debit,Main Account
+2025-08-07,Hobby Shop,-10813.78,debit,Main Account
+2025-08-01,Coffee Shop,-1940.5,debit,Main Account
