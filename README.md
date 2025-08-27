@@ -18,5 +18,5 @@ categorize transactions, and forecast **non-essential spending**.
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/expense-predictor.git
+git clone https://github.com/Samtronic789/Expense-Predictor.git
 cd expense-predictor
